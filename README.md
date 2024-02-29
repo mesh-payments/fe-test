@@ -4,6 +4,6 @@ Getting Started
 ---------------
 1. Clone this repo
 2. Use Node 16.19.*  (npm 8.8). If you have nvm installed, run `nvm use` to set the correct version.
-3. Run `npm install`
+3. Run `npm ci`
 4. Run `npm run dev`
 5. Open `http://localhost:3000` in your browser
